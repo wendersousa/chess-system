@@ -14,4 +14,9 @@ public class ChessPiece extends Piece {
 	public Color getColor() {
 		return color;
 	}
+
+	public String toSting() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
